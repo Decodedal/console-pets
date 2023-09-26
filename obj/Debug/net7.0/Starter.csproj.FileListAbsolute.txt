@@ -1,0 +1,14 @@
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\Palum\Documents\c#\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\ref\Starter.dll
